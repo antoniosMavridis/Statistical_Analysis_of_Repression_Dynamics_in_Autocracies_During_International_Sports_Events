@@ -1,0 +1,2 @@
+# Statistical_Analysis_of_Repression_Dynamics_in_Autocracies_During_International_Sports_Events
+This project uses statistical techniques to analyze the impact of international sports events on repression in autocratic regimes, focusing on the 1978 FIFA World Cup in Argentina. It employs regression models, data visualization, and robustness checks to explore how regimes adjust repression under international media scrutiny.
